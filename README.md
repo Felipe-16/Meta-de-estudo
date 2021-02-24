@@ -1,2 +1,4 @@
-# pqoppop
-isqhs
+#Meta de estudos
+- Javascript
+- Java
+- GitHub Desktop
